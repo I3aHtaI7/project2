@@ -1,0 +1,203 @@
+a:hover {
+  color: #828282;
+}
+.blog img:hover {
+  opacity: 0.5;
+}
+.container {
+    max-width: 940px;
+    margin: auto;
+   
+  }
+  .Start {
+      display: flex;
+      padding-left: 0;
+      justify-content: space-between
+      
+  }
+  li {
+    list-style-type: none
+    
+  }
+  a {
+    text-decoration:none;
+    color: black;
+  }
+  .li {
+    
+  }
+  .long {
+     border-bottom: 1px solid #000;
+     justify-content: space-between
+  }
+  .years {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+
+  }
+  .text {
+    font-family:Gilroy-Medium;
+    margin: 0 auto;
+    margin-top: 24px;
+   
+    
+  }
+  .img {
+      margin-top: 50px;
+  }
+  .ru {
+    transform: rotate(90deg);
+    font-family: Gilroy-Bold;
+  }
+  h1 {
+      font-family:Gilroy-Bold;
+      margin: 0;
+  }
+  .list {
+   margin-top: 230px;
+  }
+  .about {
+    text-align: center;
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+  }
+  .minsk {
+    text-align: center;
+    padding: 20px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+  }
+  .skills {
+    text-align: center;
+    margin-top: 200px;
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    
+  }
+  .skill {
+    margin-top: 85px;
+  }
+  .work {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 70px;
+  }
+  .skill {
+  text-align: center;
+  }
+  .skills-list{
+    display: flex;
+    padding-left: 0;
+    justify-content: space-between;
+    
+  }
+  .skill-img {
+    
+  }
+  .skill-text {
+    font-size: 14px;
+    text-align: center;
+    font-family: Gilroy-Bold;
+    margin-top: 23px;
+    
+    
+  }
+  .skill-star {
+    padding-top: 42px;
+  }
+  .portfolio{
+    text-align: center;
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    margin-top: 230px;
+  }
+  .img_woman {
+    margin-top: 47px;
+  }
+  .text_homepage {
+    text-align: center;
+    margin-top: 46px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    margin-bottom: 100px;
+  }
+  .reebok {
+    text-align: center;
+    margin-top: 46px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    margin-bottom: 100px;
+  }
+  .text_page {
+    text-align: center;
+    margin-top: 46px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+  }
+  .block_last {
+    text-align: center;
+    margin-top: 210px;
+  }
+  .contact {
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+  }
+  .chat {
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom:48px;
+  }
+  .message {
+  font-family: Gilroy-Bold;
+  font-size: 18px;
+  border: 1px solid #000;
+  border-radius: 37px;
+  padding: 8px 26px;
+  background-color: black;
+  color: white;
+  }
+  .skills-list {
+    display: flex;
+    padding-top: 80px;
+    
+  }
+  .skills-listst{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+  }
+  .blogs {
+    text-align: center;
+    padding-top: 60px;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    margin-bottom: 123px;
+    
+  }
+  .ru{
+    margin-right: -25px;
+  }
+  .blog {
+    margin: 0 30px;
+  }
+  .skill-starts {
+    padding-top: 60px;
+  }
+  @font-face {
+
+    font-family:'Gilroy-Medium';
+    src: url(./text/Gilroy-Medium.ttf);
+    font-style: normal; 
+    font-weight: normal; 
+  }
+  @font-face {
+    font-family:'Gilroy-Bold';
+    src: url(./text/Gilroy-Bold.ttf);
+    font-style: normal; 
+    font-weight: normal; 
+  }
+
+   
